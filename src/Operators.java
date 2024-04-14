@@ -26,5 +26,11 @@ public class Operators {
         System.out.println("modulo: "+mod);
 
         // assignment operators =, ++, --(these are called unary operations)
+        int count = 1;
+        System.out.println("count is: "+count);
+        count++;
+        System.out.println("updated count is: "+count);
+
+        //other operators include ==,!=, <, >, <=,>=, &&, ||(or operator)
     }
 }
