@@ -1,4 +1,4 @@
-import java.util.*;
+package javabasics;
 
 public class Math {
     public static void main(String[] args){

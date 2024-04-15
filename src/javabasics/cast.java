@@ -1,3 +1,5 @@
+package javabasics;
+
 public class cast {
     public static void main(String[] args){
         //casting: converting from one type to another i.e. int to double or vice versa

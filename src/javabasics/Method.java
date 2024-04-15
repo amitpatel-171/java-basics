@@ -1,3 +1,5 @@
+package javabasics;
+
 public class Method {
 
     //methods/functions in java

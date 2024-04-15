@@ -1,6 +1,8 @@
+package javabasics;
+
 public class strings {
     public static void main(String[] args){
-        //strings are immutable in nature i.e. cannot be changes
+        //javabasics.strings are immutable in nature i.e. cannot be changes
         //we can perform various functions on string some are listed below
         //concatenate i.e. to add 2 different Strings
 
